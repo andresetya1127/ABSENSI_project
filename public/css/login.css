@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+body {
+  background-image: url("../img/walpaper.jpg");
+  background-size: cover;
+}
+.Header {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px 25px;
+  width: 300px;
+  background-color: rgba(77, 120, 238, 0.555);
+  box-shadow: 5 5 10px rgba(87, 72, 72, 0.39);
+}
+.Header p {
+  text-align: center;
+  border-bottom: 4px solid red;
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+.Header input {
+  width: 250px;
+  padding: 8px 10px;
+  border: none;
+  margin-bottom: 20px;
+  font-size: 14px;
+  background-color: rgba(255, 255, 255, 0.719);
+}
+.Header button {
+  border: none;
+  width: 100px;
+  height: 35px;
+  color: wheat;
+  background-color: black;
+  margin-left: 100px;
+}
+.Header img {
+  position: relative;
+  top: 10px;
+}

@@ -1,0 +1,19 @@
+.off {
+  display: flex;
+  justify-content: space-evenly;
+}
+.off a {
+  text-decoration: none;
+  font-size: 20px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  font-family: "bootstrap-icons";
+  font-size: 20px;
+  color: white;
+}
+.off a:focus,
+.off a:hover {
+  border-bottom: 2px solid rgb(255, 251, 251);
+  border-top: 2px solid rgb(255, 255, 255);
+  color: rgb(160, 201, 255);
+}
