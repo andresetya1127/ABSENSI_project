@@ -14,3 +14,7 @@ Absensi ini msaih dalam masa pengembangan adapun framework yang kam gunakan adal
 # Cara Install
 - Download dan Install Composer Terbaru Bisa klik [Disini!](https://getcomposer.org/download/)
 - Clone Repostory Di githubs saya
+#
+#Cara Menjalankan
+- Jalankan spark serve dengan terminal lalu change direktorinya ke lokasi folder yg sudah diclone tadi lalu tinggal ketik "php spark serve" tanpa tanda petik tunggu hingga link localhost keluar atau jika anda menggunakan Visual Studio tinggal buka terminal dan ketikkan perintah spark serve tadi.
+- masuk ke browser ketikkan "localhost:8080" tanpa tanda petik.
