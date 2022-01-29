@@ -16,5 +16,10 @@ Absensi ini msaih dalam masa pengembangan adapun framework yang kam gunakan adal
 - Clone Repostory Di githubs saya.
 
 # Cara Menjalankan
+- Nyalakan Webserver yang digunakan
+- Setting config Apache di webserver cari file "php.ini" lalu cari ";extension=intl" Hapus bagian ";" maka akan menjadi seperti ini "extension=intl" ini berfungsi untuk menjalankan localhost agar tidak error
 - Jalankan spark serve dengan terminal lalu change direktorinya ke lokasi folder yg sudah diclone tadi lalu tinggal ketik "php spark serve" tanpa tanda petik tunggu hingga link localhost keluar atau jika anda menggunakan Visual Studio tinggal buka terminal dan ketikkan perintah spark serve tadi.
 - masuk ke browser ketikkan "localhost:8080" tanpa tanda petik.
+
+![download (3)](https://user-images.githubusercontent.com/73217776/151668667-505ec975-a15d-4018-a0dd-3e444a132f2a.png)
+
