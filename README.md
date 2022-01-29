@@ -7,10 +7,10 @@
 
 Absensi ini msaih dalam masa pengembangan adapun framework yang kam gunakan adalah Codeigniter4 jika ingin mempelajari lebih dalam bisa membaca dokumentasinya [Disini!](https://codeigniter.com/user_guide/index.html)
 ### Anggota Kelompok
-#### [1.Yati apriati](https://github.com/yatiapriati7/)
-#### [2.Puspita Ningrum](https://github.com/puspita10/)
-#### 3.Saymsul Hadi
-#### [4.Andrian setya Lucamana](https://github.com/andresetya1127/)
+#### 1.[Yati apriati](https://github.com/yatiapriati7/)
+#### 2.[Puspita Ningrum](https://github.com/puspita10/)
+#### 3.[Saymsul Hadi](https://github.com/andresetya1127/)
+#### 4.[Andrian setya Lucamana](https://github.com/andresetya1127/)
 #
 # Cara Install
 - Download dan Install Composer Terbaru Bisa klik [Disini!](https://getcomposer.org/download/)
